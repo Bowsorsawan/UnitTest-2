@@ -1,0 +1,17 @@
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\MyClassLibraryUnitTestProject.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\bin\Debug\MyClassLibraryUnitTestProject.pdb
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\bow\UnitTest-2\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
